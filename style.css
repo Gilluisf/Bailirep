@@ -1,0 +1,47 @@
+#videos{
+margin-bottom: 60px;
+}
+/*.card{
+transition: all 0.5s ease;
+box-shadow: 1px 1px 5px grey;
+}
+.card:hover{
+	//transform: scale(1.1);
+	
+}*/
+
+.btn{
+	text-shadow: 0 0 #723d3d;
+	color: black;
+}
+
+nav,nav ul,nav .brand-logo{
+  color: inherit;
+  background: inherit;
+}
+
+nav ul{
+  background: white;
+}
+nav i{
+
+  color: #5e35b1 !important;
+}
+.modal{
+
+	color: black;
+}
+
+.tab .indicator{
+	background-color: #7e57c2;
+}
+
+/*
+  When creating your CSS selector,
+  change "brown" to something of your choosing
+  */
+.waves-effect.waves-custom-purple .waves-ripple {
+   /* The alpha value allows the text and background color
+   of the button to still show through. */
+    background-color: #512da8;
+}
